@@ -153,7 +153,7 @@ body {
 
     .cabecalho-menu {
         display: flex;
-        column-gap: 50px;
+        column-gap: 30px;
     }
 
     .cabecalho-menu > a {
